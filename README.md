@@ -6,7 +6,6 @@
 
 An intelligent chatbot interface designed for students, built with Next.js, TypeScript, and CSS Modules.
 
-![Chatbot Screenshot](./public/screenshot.png) <!-- Add your screenshot path -->
 
 ## Features ✨
 
