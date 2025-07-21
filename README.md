@@ -1,5 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Student Chatbot 🎓🤖
 
+[![Next.js](https://img.shields.io/badge/Next.js-13+-000000?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+[![CSS Modules](https://img.shields.io/badge/CSS%20Modules-✓-000000?logo=css3)](https://github.com/css-modules/css-modules)
+
+An intelligent chatbot interface designed for students, built with Next.js, TypeScript, and CSS Modules.
+
+![Chatbot Screenshot](./public/screenshot.png) <!-- Add your screenshot path -->
+
+## Features ✨
+
+- 🚀 Next.js 13+ App Router architecture
+- 💬 Interactive chat interface with message history
+- 🎨 Responsive design with CSS Modules
+- 🔒 Type-safe components with TypeScript
+- 📱 Mobile-first approach
+- ⚡ Fast page loads with SSR/SSG
+
+## Tech Stack 🛠️
+
+- **Framework**: Next.js 13+
+- **Language**: TypeScript
+- **Styling**: CSS Modules
+- **State Management**: React Context API
+- **Linting**: ESLint + Prettier
+
+## Getting Started �
+
+### Prerequisites
+
+- Node.js 16.8+
+- npm/yarn/pnpm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/student-chatbot.git
+   cd student-chatbot
 ## Getting Started
 
 First, run the development server:
